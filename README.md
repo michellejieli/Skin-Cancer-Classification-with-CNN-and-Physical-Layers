@@ -9,8 +9,25 @@ This repo contains:
 * FINAL ML Imaging Models.ipynb - Models and findings
 
 ## Built With
-* [Tensor Flow](https://www.tensorflow.org/)
+
 * [Google Colab](https://colab.research.google.com/)
+
+### Install
+
+This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [Tensor Flow](https://www.tensorflow.org/)
+- [Kears](https://keras.io/)
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
+
+### Data
+
+The dataset used for this project was a subset of the International Skin Imaging Collaboration Challenge (ISIC 2020), which contains 33,126 dermoscopic images of skin lesions and their respective ground truth labels of being benign or malignant, from over 2,000 patients found on the [ISIC 2020 Challenge Dataset](https://challenge2020.isic-archive.com/).
 
 ## Contact
 Michelle Li - michelle.li851@duke.edu or michelleli1999@berkeley.edu
