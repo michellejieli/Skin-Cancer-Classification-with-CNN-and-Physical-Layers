@@ -29,5 +29,8 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 The dataset used for this project was a subset of the International Skin Imaging Collaboration Challenge (ISIC 2020), which contains 33,126 dermoscopic images of skin lesions and their respective ground truth labels of being benign or malignant, from over 2,000 patients found on the [ISIC 2020 Challenge Dataset](https://challenge2020.isic-archive.com/).
 
-## Contact
+### Contact
 Michelle Li - michelle.li851@duke.edu or michelleli1999@berkeley.edu
+
+### Contributors
+Michelle Li, Roger Chang, Yuncheng Duan, and Charlotte Roh
